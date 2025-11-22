@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Utulu, a software engineer by trade, who is developing more skills to produce innovative software solutions.
+- 👋 Hi, I’m David Utulu, a sdata analyst by trade, who is developing more skills to produce innovative software solutions.
 - 👀 I’m interested in doing more everyday, in every aspect of my life - especially with my skills 
 - 🌱 I’m currently learning about how to develop coding solutions to bring ideas to life!
 - 💞️ I’m looking to collaborate on iOS development, and pretty much anything to do with learning new technology, code and innovation
